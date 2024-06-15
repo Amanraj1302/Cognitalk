@@ -1,0 +1,15 @@
+.left_divider {
+  background: rgb(255, 255, 255, 0.21);
+}
+
+.right_divider {
+  background: rgb(255, 255, 255, 0.1);
+}
+
+.h-200per {
+  height: 200%;
+}
+
+.polygon_offerTimer {
+  clip-path: 40% 0%, 60% 0%, 100% 100%, 0% 100%;
+}
